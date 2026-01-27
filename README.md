@@ -8,6 +8,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportoo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
+<br>
+
 Me chamo Gabriel Porto, tenho 23 anos e sou de Fortaleza-CE. Atuo como desenvolvedor há pelos menos três anos e estou próximo de finalizar o curso de Sistema de Informação na Universidade Federal do Ceará(UFC). Sou bastante detalhista, por isso, gosto de pesquisar, analisar e estudar mais afundo tudo que estou buscando aprender. Estou compartilhando o que estudo no Linkedin.
 
 <div>

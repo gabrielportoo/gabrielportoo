@@ -41,15 +41,17 @@ Além do código, tenho outras paixões que complementam quem sou:
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 
   <h3>⚙️ &nbsp;Back-end & databases:</h3>
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://githubusercontent.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Postgresql" height="30" width="40" src="https://githubusercontent.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Mongodb" height="30" width="40" src="https://githubusercontent.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 <br>
 
+<h2>🚀 &nbsp;My GitHub Stats</h2>
+</p>
 <div>
    <a href="https://github.com/gabrielportoo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielportoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

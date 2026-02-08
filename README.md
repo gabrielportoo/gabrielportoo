@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/gabriel-porto-osorio-654b42274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br>
+<hr>
 
 Desenvolvedor Fullstack em formação | Foco em React.js & Node.js  
 
@@ -39,9 +39,10 @@ Formação e Aprendizado Contínuo
 Colaboração e Propósito  
 Sou movido por desafios, aprendizado constante e trabalho em equipe. Busco contribuir com soluções de qualidade, colaborar ativamente com o time e crescer como desenvolvedor fullstack, unindo aprendizado prático a uma sólida base teórica.  
  
-<br>
+<hr>
  
 ### 🤖 Linguagens e Tecnologias
+<hr>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

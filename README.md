@@ -38,8 +38,8 @@ Formação e Aprendizado Contínuo
 
 Colaboração e Propósito  
 Sou movido por desafios, aprendizado constante e trabalho em equipe. Busco contribuir com soluções de qualidade, colaborar ativamente com o time e crescer como desenvolvedor fullstack, unindo aprendizado prático a uma sólida base teórica.  
- 
-<hr>
+
+<br>
  
 ### 🤖 Linguagens e Tecnologias
 <hr>
